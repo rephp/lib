@@ -1,0 +1,17 @@
+{
+  "name": "rephp/lib",
+  "description": "rephp is a easy php framework, and this is the common lib for rephp",
+  "keywords": ["php framework", "php lib", "rephp"],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sam.shi",
+      "email": "8464005@qq.com"
+    }
+  ],
+  "require": {
+
+  }
+}
